@@ -1,0 +1,29 @@
+[1/4] Job loaded: Data Analyst
+      Must-have : sql, excel, python
+      Nice-to-have: power bi, tableau, pandas, statistics, data visualization, data cleaning
+[2/4] Extracted text from 10 resumes in 'resumes/'
+[3/4] Scored and ranked candidates
+
+====================================================================================================
+ AUTOMATED RESUME SCREENING REPORT  |  Job: Data Analyst
+====================================================================================================
+ rank candidate_name  score must_have_missing  years_experience        status
+    1    Aarav Mehta   89.0                                 3.0   SHORTLISTED
+    2    Divya Reddy   81.0                                 6.0   SHORTLISTED
+    3   Ananya Desai   78.6                                 2.0   SHORTLISTED
+    4  Siddharth Rao   65.8                                 0.0 MANUAL REVIEW
+    5     Priya Nair   65.1            python               4.0      REJECTED
+    6     Rohan Iyer   59.0             excel               5.0      REJECTED
+    7 Sneha Kulkarni   50.5                                 0.0      REJECTED
+    8   Vikram Singh   48.1             excel               4.0      REJECTED
+    9    Karan Patel   35.4       sql, python               3.0      REJECTED
+   10    Meera Joshi   34.6       sql, python               5.0      REJECTED
+====================================================================================================
+ Summary: REJECTED: 6 | SHORTLISTED: 3 | MANUAL REVIEW: 1
+====================================================================================================
+
+[4/4] Reports saved:
+      ranking      -> outputs/ranking_report.csv
+      shortlisted  -> outputs/shortlisted_candidates.csv
+      rejected     -> outputs/rejected_candidates.csv
+      chart        -> images/score_chart.png

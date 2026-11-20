@@ -1,0 +1,11 @@
+rank,candidate_name,resume_file,score,tfidf_similarity,must_have_matched,must_have_missing,nice_to_have_matched,years_experience,status,reason
+1,Aarav Mehta,Aarav_Mehta_DataAnalyst.pdf,89.0,0.222,"sql, excel, python",,"power bi, tableau, pandas, statistics, data visualization, data cleaning",3.0,SHORTLISTED,Matched 3/3 must-have skills; 3 yrs experience (needs 2)
+2,Divya Reddy,Divya_Reddy_SeniorDataAnalyst.txt,81.0,0.129,"sql, excel, python",,"power bi, tableau, pandas, statistics, data visualization, data cleaning",6.0,SHORTLISTED,Matched 3/3 must-have skills; 6 yrs experience (needs 2)
+3,Ananya Desai,Ananya_Desai_DataAnalyst.docx,78.6,0.139,"sql, excel, python",,"power bi, statistics, data visualization, data cleaning",2.0,SHORTLISTED,Matched 3/3 must-have skills; 2 yrs experience (needs 2)
+4,Siddharth Rao,Siddharth_Rao_Keywords.pdf,65.8,0.184,"sql, excel, python",,"power bi, tableau, pandas, statistics, data visualization, data cleaning",0.0,MANUAL REVIEW,Matched 3/3 must-have skills; 0 yrs experience (needs 2); possible keyword stuffing - check manually
+5,Priya Nair,Priya_Nair_BusinessAnalyst.docx,65.1,0.176,"sql, excel",python,"power bi, data visualization",4.0,REJECTED,Matched 2/3 must-have skills; missing: python; 4 yrs experience (needs 2)
+6,Rohan Iyer,Rohan_Iyer_DataScientist.pdf,59.0,0.066,"sql, python",excel,"pandas, statistics, data visualization, data cleaning",5.0,REJECTED,Matched 2/3 must-have skills; missing: excel; 5 yrs experience (needs 2)
+7,Sneha Kulkarni,Sneha_Kulkarni_Fresher.txt,50.5,0.083,"sql, excel, python",,"pandas, data visualization",0.0,REJECTED,Matched 3/3 must-have skills; 0 yrs experience (needs 2)
+8,Vikram Singh,Vikram_Singh_BackendDeveloper.pdf,48.1,0.017,"sql, python",excel,,4.0,REJECTED,Matched 2/3 must-have skills; missing: excel; 4 yrs experience (needs 2)
+9,Karan Patel,Karan_Patel_MarketingExecutive.pdf,35.4,0.024,excel,"sql, python",,3.0,REJECTED,"Matched 1/3 must-have skills; missing: sql, python; 3 yrs experience (needs 2)"
+10,Meera Joshi,Meera_Joshi_HRExecutive.docx,34.6,0.015,excel,"sql, python",,5.0,REJECTED,"Matched 1/3 must-have skills; missing: sql, python; 5 yrs experience (needs 2)"
