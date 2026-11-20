@@ -1,0 +1,8 @@
+{
+  "title": "Data Analyst",
+  "must_have": ["sql", "excel", "python"],
+  "nice_to_have": ["power bi", "tableau", "pandas", "statistics", "data visualization", "data cleaning"],
+  "min_experience_years": 2,
+  "shortlist_threshold": 60,
+  "min_must_coverage": 1.0
+}

@@ -1,0 +1,17 @@
+Divya Reddy
+Senior Data Analyst
+divya.reddy@example.com | +91 91111 00000 | Hyderabad, India
+
+SUMMARY
+Senior Data Analyst with 6 years of experience leading analytics for supply chain and finance teams.
+
+SKILLS
+SQL, Excel, Python, Pandas, Tableau, Power BI, ETL, Statistics, A/B Testing, Data Visualization, Data Cleaning
+
+EXPERIENCE
+- Senior Data Analyst, LogiTrack (2020 - Present): led a team of 3 analysts, built Tableau and Power BI dashboards.
+- Designed ETL pipelines using SQL and Python, improved report refresh time by 40 percent.
+- Ran A/B tests and statistical analysis to support pricing decisions.
+
+EDUCATION
+M.Sc. Statistics, University of Hyderabad

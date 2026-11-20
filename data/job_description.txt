@@ -1,0 +1,21 @@
+Job Title: Data Analyst
+
+About the role
+We are looking for a Data Analyst to turn business data into clear insights.
+You will clean data, write SQL queries, build dashboards and present findings
+to the business team.
+
+Responsibilities
+- Write SQL queries to extract and analyse data from relational databases
+- Clean and analyse datasets using Python and Pandas
+- Build reports and pivot tables in Excel
+- Create interactive dashboards using Power BI or Tableau
+- Apply statistics and data visualization to explain trends
+- Work with stakeholders to understand reporting requirements
+
+Requirements
+- 2+ years of experience in a data analyst or business analyst role
+- Strong SQL, Excel and Python skills
+- Experience with Power BI or Tableau
+- Good understanding of statistics and data cleaning
+- Clear communication skills

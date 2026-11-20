@@ -1,0 +1,16 @@
+Sneha Kulkarni
+Fresher - Aspiring Data Analyst
+sneha.kulkarni@example.com | +91 90000 44444 | Aurangabad, India
+
+SUMMARY
+Recent graduate with a 6 month internship, keen to start a career in data analysis.
+
+SKILLS
+Python, SQL, Excel, Pandas, Data Visualization
+
+EXPERIENCE
+- Data Analyst Intern, LocalMart (6 months): cleaned sales data in Excel and Pandas.
+- College project: sales dashboard using Python, Matplotlib and SQL.
+
+EDUCATION
+B.E. Computer Science, Dr. Babasaheb Ambedkar Marathwada University
